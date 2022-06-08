@@ -1,0 +1,8 @@
+body, h1, h2, p, ul, ol, ul, footer, section, header, main, a{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    list-style-type: none;
+}
